@@ -3,4 +3,6 @@
 #ready for staging
 #all class25 students will be hired
 git is used for versioning
+Removing bug from the application
+Fixing vulnerability issues
 
